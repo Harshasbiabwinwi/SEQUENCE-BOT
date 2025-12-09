@@ -72,10 +72,10 @@ Telegram API Credentials
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/telegram-file-sequence-bot.git
+git clone https://github.com/abhinai2244/SEQUENCE-BOT.git
 
 # Navigate to project directory
-cd telegram-file-sequence-bot
+cd SEQUENCE-BOT
 
 # Install dependencies
 pip install -r requirements.txt

@@ -1,13 +1,13 @@
 import os
 from os import environ
 
-TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "756596:AAF")
-APP_ID = int(os.environ.get("APP_ID", "2355"))
-API_HASH = os.environ.get("API_HASH", "4vsavkjahvsdhk")
-OWNER_ID = int(os.environ.get("OWNER_ID", "5741918628"))
+TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "8358624438:AAGYd461TjYEbQJsfkgKnXVDDvQdRAT9m9Q")
+APP_ID = int(os.environ.get("APP_ID", "26422668"))
+API_HASH = os.environ.get("API_HASH", "13853df234b2fbe18d9027a5985cc69e")
+OWNER_ID = int(os.environ.get("OWNER_ID", "7527314266"))
 PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URI", "mongodb+srv://odb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "Rex_sequencebott")
+DB_URL = os.environ.get("DB_URI", "mongodb+srv://villainravangaming:mikey_kun_781_@cluster0.fbgs1zz.mongodb.net/?retryWrites=true&w=majority")
+DB_NAME = os.environ.get("DB_NAME", "villainravangaming")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "S_QV_Sbot")
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://ibb.co/FL66q5G9")
 START_PIC =os.environ.get("START_PIC", "https://ibb.co/FL66q5G9")
@@ -16,7 +16,7 @@ ABOUT_TXT = os.environ.get("ABOUT_MESSAGE", "<i><b><blockquote>◈ ᴄʀᴇᴀ�
 HELP_TXT =  os.environ.get("HELP_MESSAGE", "⁉️ Hᴇʟʟᴏ {mention} \n<blockquote expandable><b><i>➪ Iᴀᴍ ᴀ ᴘᴜʙʟɪᴄ ғɪʟᴇ(s) sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ᴛʜᴇ ғɪʟᴇs ᴀɴᴅ ᴀʟsᴏ I ᴄᴀɴ sᴇɴᴅ ᴛʜᴀᴛ ғɪʟᴇs ɪɴ ᴅᴜᴍᴘ ᴄʜᴀɴɴᴇʟ. </i></b></blockquote>")
 TG_BOT_WORKERS = 10000
 FSUB_LINK_EXPIRY = 300
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-10654657458"))
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1003433236081"))
 LOG_FILE_NAME = "links-sharingbot.txt"
 SEASON_PATTERN = r'[Ss](\d{1,2})'
 EPISODE_PATTERN = r'[Ee][Pp]?(\d{1,3})'
